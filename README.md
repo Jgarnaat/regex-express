@@ -14,7 +14,6 @@ was created for. Last we'll delve into basic use cases for implementing the rege
 - [What is Regex?](#what_is_regex?)
 - [History of Regex](#history_of_regex)
 - [Using regex](#using_regex)
-- [About the author](#About_the_author)
 - [link](#link)
 
 ## What_is_Regex?
